@@ -142,5 +142,192 @@ Identity And Access Management
 AWS Cloud9
 AWS Lambda
 
-## 30 Find vulnerabilities on EC2 instance using Amazon Inspector
+
+## 30 Create and connect to Amazon FSx using Windows Instance
+Amazon FSx
+AWS Directory Service
+
+
+## 31 Build a fault-tolerant Elastic Beanstalk Application using Deployment Policies
+AWS Elastic Beanstalk
+
+
+## 32 Create a Network Monitoring System Using AWS VPC Flow Logs and CloudWatch
+Amazon CloudWatch
+Amazon EC2
+Amazon VPC
+
+## 33 Building a Resilient AWS Architecture to withstand hardware failovers and get notified using SNS from scratch
+Amazon CloudWatch
+Amazon EC2
+Amazon RDS
+Amazon SNS
+Amazon VPC
+
+## 34 Access Amazon SQS using Amazon VPC Interface Endpoint
+Amazon EC2
+Amazon SQS
+Amazon VPC
+
+## 35 Understanding CloudFront Origin Groups
+Amazon CloudFront
+Amazon EC2
+Amazon S3
+
+## 36 Building a Food Ordering Chatbot Website
+Amazon CloudFront
+Amazon Cognito Identity
+Amazon Lex
+Amazon Rekognition
+Amazon S3
+AWS Lambda
+IAM
+
+
+## 37 Path Based Routing - AWS ELB 
+Amazon EC2
+Elastic Load Balancing
+
+
+## 38 Create and run Amazon EKS Cluster using Spot instance
+Amazon Elastic Kubernetes Service
+AWS CloudShell
+
+
+## 39 Build a real time data streaming system with Amazon Kinesis Data Streams
+Amazon Kinesis
+Amazon S3
+AWS Lambda
+
+
+## 40 Build a real time data streaming system with Amazon Kinesis Data Stream and Kinesis Agent
+Amazon EC2
+Amazon Kinesis
+Amazon S3
+
+
+
+## 41 Use Amazon CloudFront for dynamic Websites
+Amazon CloudFront
+Amazon EC2
+Amazon S3
+Elastic Load Balancing
+
+
+## 42 Creating an Application Load Balancer and Auto Scaling Group in AWS
+Amazon EC2
+Amazon EC2 Auto Scaling
+Elastic Load Balancing
+
+
+## 43 Create and Configure Amazon EC2 Auto Scaling with Launch Templates
+Amazon EC2
+Amazon EC2 Auto Scaling
+
+
+
+## Creating RDS Backup Database Snapshots
+Amazon RDS
+
+## How to Encrypt an Unencrypted RDS DB Instance
+Amazon RDS
+
+## Export Amazon RDS DB Snapshot to S3
+Amazon RDS
+Amazon S3
+AWS Key Management Service
+
+
+## Adding a Database to Elastic Beanstalk Environment
+AWS Elastic Beanstalk
+
+
+## DynamoDB PITR & On-Demand Backup and Restore
+Amazon DynamoDB
+Amazon S3
+AWS Lambda
+
+
+## Understanding Lambda@Edge
+Amazon CloudFront
+Amazon S3
+AWS Lambda
+
+
+## Launch an EC2 Instance with Lambda
+Amazon EC2
+AWS Lambda
+Identity And Access Management
+
+
+## Understanding and Configuring Layered Security in an AWS VPC
+Amazon EC2
+Amazon VPC
+
+
+
+## What is an Egress only Internet Gateway
+Amazon EC2
+Amazon VPC
+
+
+
+## Creating AWS VPC Flow Logs and Generating Traffic
+Amazon CloudWatch Logs
+Amazon EC2
+Amazon VPC
+Identity And Access Management
+
+
+## Build API Gateway with Lambda Integration
+Amazon API Gateway
+AWS Lambda
+
+
+## Mount Elastic File System (EFS) on EC2
+Amazon EC2
+
+
+
+## AWS Access control alerts with CloudWatch and CloudTrail
+Amazon CloudWatch
+Amazon CloudWatch Logs
+AWS CloudTrail
+
+
+## Perform ETL operation in Glue with S3
+Amazon S3
+AWS Glue
+
+
+## Lambda Function to Shut Down and Terminate an EC2 Instance
+Amazon EC2
+AWS Lambda
+
+
+## Balance load across containers through Application Load Balancer in ECS
+Amazon Elastic Container Service
+Elastic Load Balancing
+
+
+## Configure Application Auto Scaling using Target Tracking policy in ECS
+Amazon EC2 Auto Scaling
+Amazon Elastic Container Service
+Elastic Load Balancing
+
+
+## Introduction to AWS Step Functions
+AWS Lambda
+AWS Step Functions
+Identity And Access Management
+
+
+## Creating a workflow using different States with AWS Step Functions
+AWS Lambda
+AWS Step Functions
+Identity And Access Management
+
+
+## Find vulnerabilities on EC2 instance using Amazon Inspector
 Amazon Inspector
+
